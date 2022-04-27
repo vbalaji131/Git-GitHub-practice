@@ -1,0 +1,3 @@
+my username
+my password
+my uniq key
