@@ -1,0 +1,5 @@
+#ignore secret.txt file while add or commit
+secret.txt
+
+#ignore secure.txt file in password folder
+/password/secure.txt
