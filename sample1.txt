@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 it is sample 1 file
 added second sfdfsdf line
 added third line
+=======
+first line sample1
+>>>>>>> detached
